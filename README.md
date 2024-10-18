@@ -15,3 +15,6 @@ Av: Daniel Hao Huynh, Mikael Fossli <br>
 - ```sh
   pip install -r .\requirements.txt
   ```
+4. Alle nødvendige komputeringer er i denne [Jupiter notebook filen](https://github.com/Mystodan/BTS4210-1-24H---Oblig1/blob/main/oppgave_1_visualisering_data.ipynb)
+
+![[https://github.com/Mystodan/BTS4210-1-24H---Oblig1/blob/main/oppgave_1_visualisering_data.ipynb]]
