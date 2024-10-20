@@ -18,6 +18,9 @@ Av: Daniel Hao Huynh, Mikael Fossli <br>
 - ```sh
   pip install -r .\requirements.txt
   ```
-4. Alle nødvendige komputeringer er i denne [Jupiter notebook filen](https://github.com/Mystodan/BTS4210-1-24H---Oblig1/blob/main/oppgave_1_visualisering_data.ipynb)
+4. Vi har valgt å fordelt oppgaven i 2 jupiter notebooks, 1 applet med dash + folium og 1 tabell. <br>
+- Alle nødvendige komputeringer er her: <br>
+  - [Oppgave 1 Dash + Folium](https://github.com/Mystodan/BTS4210-1-24H---Oblig1/blob/main/oppgave_1_del_1.ipynb)
+  - [Oppgave 2 Tabell](https://github.com/Mystodan/BTS4210-1-24H---Oblig1/blob/main/oppgave_1_del_2.ipynb)
 
 
