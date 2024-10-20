@@ -1,5 +1,8 @@
-# BTS4210-1-24H---Oblig1
-
+# BTS4210-1-24H-Oblig1
+Denne oppgaven er inspirert av årets hackathon i forbindelse med Horten Tech Festival:
+[«Løsninger for havet»](https://www.electroniccoast.no/2024/06/10/hackathon-losninger-for-havet/). <br>
+Oppgaven tar i bruk et datasett fra Havforskningsinstituttet der observasjonene er gjort av [«vanlige folk» folkeforskning](https://dugnadforhavet.no/dataportal). <br>
+> [Oppgavebeskrivelsen](https://github.com/Mystodan/BTS4210-1-24H---Oblig1/blob/main/Obligatorisk%20innlevering%201.pdf)
 
 # Gruppeoppgave 1 - Oslofjorden
 Av: Daniel Hao Huynh, Mikael Fossli <br>
@@ -15,3 +18,6 @@ Av: Daniel Hao Huynh, Mikael Fossli <br>
 - ```sh
   pip install -r .\requirements.txt
   ```
+4. Alle nødvendige komputeringer er i denne [Jupiter notebook filen](https://github.com/Mystodan/BTS4210-1-24H---Oblig1/blob/main/oppgave_1_visualisering_data.ipynb)
+
+
